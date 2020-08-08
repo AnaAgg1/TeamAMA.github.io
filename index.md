@@ -1,1 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/now-ui-kit.css">
+    <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,600,700,800,900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,600,700,800,900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Lato:300,400,600,700,800,900&display=swap" rel="stylesheet">
+    <link rel = "apple-touch-icon" href="assets/CHHfavicontrans.png">
+    <link rel = "icon" sizes="192x192" href="assets/CHHfavicontrans.png">
+    <title>CovidHelpHub</title>
+</head>
+<body>
+<nav class="navbar navbar-expand-lg bg-transparent">
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <img src="assets/menuIcon.svg" width="20px" height="20px" style="max-width: none !important;">
+    </button>
+    <img src="assets/CHHlogotrans.png" width="100" height="83">
+    <div class="collapse navbar-collapse" id="navbarSupportedContent" style="margin-left: 20px !important">
+        <ul class="navbar-nav mr-auto">
+            <li class="nav-item active">
+                <a class="nav-link" href="https://covidhelphub.github.io/">Home <span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="https://covidhelphub.github.io/resources.html">Resources</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="https://github.com/CovidHelpHub">Github</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="https://docs.google.com/presentation/d/1l1f4Sc1qrBD8wL4y-9AjB_qyX-KedCSoT-k3KgnsLr8/edit?usp=sharing">Presentation+Pitch</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="https://www.facebook.com/Covid-Help-Hub-105840961188812/">Facebook Page</a>
+            </li>
+        </ul>
+    </div>
+</nav>
+<div class="heading">
+    <h1 class="display-5 title">🥉 3rd place winner at StarHacks.<br />Welcome to the future of pandemic response.</h1>
+    <p class="subtitle">CovidHelpHub is a Messenger bot ready to help you with all of your coronavirus needs.<br /><br />The CovidHelpHub bot is our solution to end pandemics faster. We saw how there were many underprivileged people who did <br />not have access to coronavirus testing, so we thought of a way to implement quick and accessible testing. If you are shown to <br />have symptoms of coronavirus, we will direct you to go to the hospital in order to minimize others contracting it. We decided to <br />expand our bot with features such as crowd control. You will be able to see real time statistics of places. Therefore, you can <br />plan how to go about your day with a lesser chance of contracting coronavirus. Our bot will also direct you to many helpful <br />links, whether it be for donations or donations to help out your community. <br /> </p>
+    <a class="btn btn-primary btn-lg" href="https://m.me/105840961188812" target="_blank" role="button">Try it out!</a>
+    <a class="btn btn-secondary btn-lg" href="https://covidhelphub.github.io/resources.html" target="_blank" role="button">more covid-19 resources</a>
+    <br /><br />
+</div>
+<div class="features">
+    <div class="title">CovidHelpHub Features</div>
+    <div class="subtitle">how we help to combat coronavirus</div>
+    <div class="cards">
+        <div class="card" style="width: 18rem;">
+        <div class="card-body">
+            <h5 class="card-title">Limit COVID Spread</h5>
+            <p class="card-text">The flagship feature of our bot — you will be able to see how crowded places are. You will only need to type in a place, whether it be the supermarket or a city, and we will provide you with real time statistics.</p>
+        </div>
+    </div>
+        <div class="card" style="width: 18rem;">
+            <div class="card-body">
+                <h5 class="card-title">Preliminary Testing</h5>
+                <p class="card-text">Users will be able to screen themselves or others for COVID-19 based on factors including but not limited to symptoms, recent travel habits, and pre-existing health conditions.</p>
+            </div>
+        </div>
+        <div class="card" style="width: 18rem;">
+            <div class="card-body">
+                <h5 class="card-title">Helpful Resources</h5>
+                <p class="card-text">Access to links which can inform you about the dangers of coronavirus, helpful links, and resources if you want to learn more about what you can do to help out your community. </p>
+            </div>
+        </div>
+        <div class="card" style="width: 18rem;">
+            <div class="card-body">
+                <h5 class="card-title">Links to help the effort</h5>
+                <p class="card-text">Our bot can direct you to links where you can help support your community during crisis through donations, whether it be monetary or it be much needed resources, such as personal protective equipment.</p>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="statistics">
+    <div class="cards">
+        <div class="card statistic" style="width: 18rem;">
+            <div class="card-body">
+                <p class="card-title" style="font-size: 50px !important;line-height: 15px !important;letter-spacing: -0.06em !important;font-weight: bold !important;">3</h1>
+                <p style="font-weight: bold !important;font-size: 20px !important;">hackers</p>
+            </div>
+        </div>
+        <div class="card statistic" style="width: 18rem;">
+            <div class="card-body">
+                <p class="card-title" style="font-size: 50px !important;line-height: 15px !important;letter-spacing: -0.06em !important;font-weight: bold !important;">12</h1>
+                <p style="font-weight: bold !important;font-size: 20px !important;">hours</p>
+            </div>
+        </div>
+        <div class="card statistic" style="width: 18rem;">
+            <div class="card-body">
+                <p class="card-title" style="font-size: 50px !important;line-height: 15px !important;letter-spacing: -0.06em !important;font-weight: bold !important;">1</h1>
+                <p style="font-weight: bold !important;font-size: 20px !important;">amazing bot</p>
+            </div>
+        </div>
+        <div class="card statistic" style="width: 18rem;">
+            <div class="card-body">
+                <p class="card-title" style="font-size: 50px !important;line-height: 15px !important;letter-spacing: -0.06em !important;font-weight: bold !important;">∞</h1>
+                <p style="font-weight: bold !important;font-size: 20px !important;">problems solved</p>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="page_end">
+    <div class="start">
+        <div class="card">
+            <div class="card-body gs-card">
+                <div class="title">Are you ready to try out our Bot?</div>
+                <div class="subtitle">Remember, you will need to be logged into your Facebook account in order to use this bot. Happy Chatting!</div>
+                <br />
+                <a class="btn btn-primary btn-lg" href="https://m.me/105840961188812" role="button">Get started</a>
+            </div><br />
+        </div>
+    </div>
+    <div class="footer">
+        <div class="bot-footer">
+            <img src="assets/CHHlogo.png" width="200"><br />
+            Made with ♥ by A.A., A.H., and K.S.
+        </div><br/>
+    </div>
+</div>
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<script src="js/now-ui-kit.min.js"></script>
+</body>
+</html>
 
